@@ -64,3 +64,5 @@ Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
 Date:   Wed Aug 28 01:13:39 2024 -0700
 
     Added index.html
+Merge conflict occurred when both branches modified the same line in index.html.
+Resolved by combining the changes to "Sushi and Apples".
