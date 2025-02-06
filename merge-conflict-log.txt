@@ -1,0 +1,66 @@
+commit ac62c3c0c725c79211944406a132c12162a53f0e
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 22:10:49 2025 -0800
+
+    Add repo-location.txt with repository URL
+
+commit 30b75f563539876b87237a10b9549c10a8e7eeb8
+Merge: 2cd2e24 c5888b1
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 22:01:23 2025 -0800
+
+    Resolved merge conflict, favorite food is Sushi and Apples
+
+commit c5888b17e6e947c6ac573b09390b7ea0706d7fa7
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 21:55:01 2025 -0800
+
+    Change favorite food to Apples! on index-fix branch
+
+commit 2cd2e2495dc3c0788f32245fd5e3eaa3dcd37060
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 21:50:08 2025 -0800
+
+    Change favorite food to Sushi on main branch
+
+commit d5cc38429721b5bff3cca3336879ab822f4f3332
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 21:47:10 2025 -0800
+
+    Change favorite food to burgers on index-fix branch
+
+commit 142d552e6ecb798f317e2a4eef923bd194f92cc1
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 21:45:50 2025 -0800
+
+    Change favorite food to Sushi on main branch
+
+commit 5a5b850bb11a9c48cc195d0115b86a5e19ab4eb7
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 21:40:38 2025 -0800
+
+    Added favorite movie div to index.html
+
+commit f24a6301e8a03958d83ad8453f47f6c286132970
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 21:37:36 2025 -0800
+
+    Added favorite food div to index.html
+
+commit 93a199938a17550d4dcb12df6d020ad49f3cc804
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 19:34:35 2025 -0800
+
+    Add README.md describing the repo
+
+commit f43eabca7f84e50ab0d3d55b9b1185a4dc477766
+Author: PabloGD1 <pablogonzalezd.999@gmail.com>
+Date:   Wed Feb 5 18:56:47 2025 -0800
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
